@@ -11,4 +11,5 @@ gem 'webrick'
 group :test do
   gem 'rest-client', '~> 2.0'
   gem 'rspec', '~> 3.6'
+  gem 'evil-proxy'
 end
